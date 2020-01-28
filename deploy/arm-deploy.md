@@ -74,7 +74,7 @@
           "properties": {
             "storageKeyType": "SharedAccessKey",
             "storageKey": "?",
-            "storageUri": "https://github.com/SpektraSystems/AMP-SDK-Sample/blob/master/deploy/AMP-DB.bacpac",
+            "storageUri": "https://c3devkbstor.blob.core.windows.net/amp-saaskit-db/AMP-DB.bacpac",
             "administratorLogin": "[parameters('administratorLogin')]",
             "administratorLoginPassword": "[parameters('administratorLoginPassword')]",
             "operationMode": "Import"
