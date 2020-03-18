@@ -1,3 +1,4 @@
-Click on the deploy Web App Button to deploy the webapp.
+Click on the **Deploy to Azure** Button to deploy the webapp.
 
-[![Deploy Webapp to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/SpektraSystems/AMP-SDK-Sample/master/deploy/deploy-webapp.json)
+[![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSpektraSystems%2FAMP-SDK-Sample%2Fmaster%2Fdeploy%2Fdeploy-webapp.json)
+
